@@ -1,3 +1,8 @@
+/*
+* My first program in JS (wooo)
+*/
+
+
 // create an array of strings - ['Dopey', 'Grumpy', 'Happy', 'Sleepy', 'Sneezy', 'Bashful', 'Doc']
 var dwarves = ['Dopey', 'Grumpy', 'Happy', 'Sleepy', 'Sneezy', 'Bashful', 'Doc']
 
